@@ -1,0 +1,104 @@
+.myname{
+    font-size: 30px;
+}
+/* .myname::after{
+    content: ' is Vibhanshu Garg';
+    color: red;
+    font-weight: 900;
+
+}
+.myname::before{
+    content: 'Hello! ';
+    color: blue;
+    font-weight: 900;
+} */
+/* .myname::after{
+    content: 'Lorem Lorem';
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: block;
+}
+.myname::before{
+    content: 'Lorem Lorem';
+    color: white;
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+    display: block;
+} */
+/* .mypara{
+    background-color: black;
+    width: 100%;
+    color: red;
+    height: 120px;
+    overflow: scroll;
+    overflow: scroll;
+} */
+/* .flex-container{
+    background-color: black;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex-container div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a3a3a3;
+    width: 100px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+} */
+/* .mydiv{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation: myanimation 2s infinite;
+} */
+/* @keyframes myanimation{
+    from{
+        top: 0;
+        left: 0;
+    }
+    to{
+        top: 200px;
+        left: 200px;
+        background-color: green;
+        border-radius: 50%;
+    }
+    0%{
+        top: 0;
+        left: 0;
+    }
+    25%{
+        top: 50px;
+        left: 50px;
+        background-color: yellow;
+        border-radius: 12.25%;
+    }
+    50%{
+        top: 100px;
+        left: 100px;
+        background-color: orange;
+        border-radius: 25%;
+    }
+    75%{
+        top: 150px;
+        left: 150px;
+        background-color: black;
+        border-radius: 75%;
+    }
+    100%{
+        top: 200px;
+        left: 200px;
+        background-color: green;
+        border-radius: 50%;
+    }
+} */
